@@ -1,0 +1,16 @@
+#titulo, #titulo2, #titulo3 {
+    font-size: 42px;
+}
+.subtitulo {
+    font-size: 30px;
+    color: red;
+}
+ul, ol {
+    font-size: 21px;
+    color: rgb(114, 163, 143);
+}
+p, a {
+    font-size: 21px;
+    color: blue;
+}
+
